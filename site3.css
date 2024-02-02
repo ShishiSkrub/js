@@ -1,0 +1,116 @@
+body
+{
+    text-align: center;
+    background-image: linear-gradient(rgb(50, 3, 60),rgb(19, 0, 33)), url(/sites/images/—Pngtree—spider\ web\ spider\ big\ spider_3853751.png);
+    color: aliceblue;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+header
+{
+    background-color: black;
+    margin: 0 35%;
+    width: 500px;
+    border: 3px solid rgb(112, 3, 122);
+}
+
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.bya
+{
+    width: 50%;
+    height: 50%;
+}
+
+#intro
+{
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #555;
+    margin: 50px;
+    border: 2px solid rgb(230, 172, 220);
+}
+
+.style
+{
+    text-align: center;
+    font-size: 35px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: blueviolet;
+    padding: 25px;
+    margin: 100px 600px;
+    border: 2px solid;
+    width: 250px;
+    height: 90px;
+}
+
+#style2
+{
+    height: 80px;
+    width: 180px;
+    background-color: palevioletred;
+}
+
+
+
+#aby
+{
+    background-color: brown;
+    width: 200px;
+    height: 50px;
+}
+
+.sidebar
+{
+    position: fixed;
+    left: 0 ;
+    width: 150px;
+    height: 30%;
+    background-image:linear-gradient(rgb(84, 7, 167),rgb(50, 3, 60)) ;
+    transition: all .5s ease;
+}
+.sidebar #part
+{
+    font-size: 35px;
+    color: black;
+    text-align: center;
+    line-height: 35px;
+    background-image:linear-gradient(rgb(93, 3, 141),rgb(80, 2, 48)) ;
+    user-select: none;
+}
+
+.sidebar ul a
+{
+    display: block;
+    height: 100%;
+    width: 100%;
+    line-height: 35px;
+    font-size: 25px;
+    color: aliceblue;
+    padding-left:.2%;
+    box-sizing: border-box;
+    border-top: 1px solid rgb(21, 15, 15);
+    border-bottom: 1px solid black;
+    transition: .4s;
+}
+
+ul li:hover a
+{
+    padding-left: 15%;
+}
+
+#theme
+{
+    background-color: rgb(2, 37, 8);
+    height: 5%;
+    width: 10%;
+    border: solid 1px white;
+}
+
+.stop
+{
+    background-repeat: no-repeat;
+}
+
